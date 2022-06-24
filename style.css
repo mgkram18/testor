@@ -1,0 +1,7 @@
+.col {
+	background-color: grey;
+}
+
+.btn-danger:hover { 
+background-color: black; 
+}
